@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">City Playbook</title>
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#562c61"/>
+      <stop offset=".5" stop-color="#20172f"/>
+      <stop offset="1" stop-color="#10152a"/>
+    </linearGradient>
+    <linearGradient id="sunset" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff0b0"/>
+      <stop offset=".38" stop-color="#ffad80"/>
+      <stop offset=".7" stop-color="#fb6b98"/>
+      <stop offset="1" stop-color="#e14aa6"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#ffc49b"/>
+      <stop offset=".38" stop-color="#ff829d"/>
+      <stop offset="1" stop-color="#dd53d2"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffc38d"/>
+      <stop offset=".55" stop-color="#a558a0"/>
+      <stop offset="1" stop-color="#56e1d2"/>
+    </linearGradient>
+    <path id="letter-c" d="M121 50H82c-24 0-41 13-47 36l-7 25c-7 26 5 41 31 41h43l8-27H68c-9 0-11-4-9-12l6-23c2-8 7-12 16-12h32z"/>
+    <path id="letter-p" fill-rule="evenodd" d="M139 101h53c22 0 32 11 26 33l-4 13c-5 18-18 27-38 27h-21l-9 33h-32zm22 26-6 21h21c6 0 9-3 10-7l2-7c1-5-1-7-7-7z"/>
+  </defs>
+  <rect x="5" y="5" width="246" height="246" rx="55" fill="url(#badge)" stroke="url(#edge)" stroke-width="3"/>
+  <rect x="13" y="13" width="230" height="230" rx="48" fill="none" stroke="#f3b0d0" stroke-opacity=".24" stroke-width="1.5"/>
+  <path d="M147 78a32 32 0 0 1 64 0z" fill="url(#sunset)" opacity=".8"/>
+  <path d="M151 69h58M159 61h44M145 85h68" stroke="#422347" stroke-width="3" opacity=".9"/>
+  <path d="M188 79c4-19 13-27 25-34-9 3-16 6-21 11 3-7 8-13 15-17-10 2-17 6-21 12-4-5-11-8-18-7 7 2 13 6 16 11-8-2-15 0-22 5 7-2 15-2 21 0-1 7-1 13-1 19z" fill="#39223f"/>
+  <g transform="translate(7 9)" fill="#8b376e" stroke="#100d22" stroke-width="9" stroke-linejoin="round">
+    <use href="#letter-c"/><use href="#letter-p"/>
+  </g>
+  <use href="#letter-c" fill="url(#sunset)" stroke="#100d22" stroke-width="9" stroke-linejoin="round" paint-order="stroke"/>
+  <use href="#letter-p" fill="url(#neon)" stroke="#100d22" stroke-width="9" stroke-linejoin="round" paint-order="stroke"/>
+  <path d="M117 51H83c-16 0-29 7-37 18m95 33h50c12 0 20 3 25 11" fill="none" stroke="#fff0d3" stroke-opacity=".74" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="m42 201 12-18h37m-25 32 21-31h10m62 43h25l20-28h15" fill="none" stroke="#7ee4d9" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
+</svg>
