@@ -1,5 +1,5 @@
-:HL["/_next/static/css/66a10700dad5ed8f.css","style"]
+:HL["/_next/static/css/58ef25ef1dc31c85.css","style"]
 :HL["/city-playbook-logo.webp","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"legal","t":"d","k":"about","s":["_not-found","_global-error","guides","manifest.webmanifest","play","robots.txt","sitemap.xml"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"dGTBmFu_0UZJRK5CzqvAx","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"7wbVpZlNR0z0hpyqlMWMI","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
