@@ -1,4 +1,4 @@
-const cacheName = "city-playbook-e5c845d4c967";
+const cacheName = "city-playbook-ff8ff9ebafbc";
 const essentials = ["/", "/guides/gta-vi/", "/city-playbook-logo.webp", "/offline.html"];
 
 self.addEventListener("install", event => {
